@@ -1,4 +1,4 @@
-### Hallo
+# Hallo
 
 You can use the [Link zu Rick Astley](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to maintain and preview the content for your website in Markdown files.
 
